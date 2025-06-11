@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Search Material by Description</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    input {
+      padding: 10px;
+      width: 300px;
+    }
+    #result {
+      margin-top: 15px;
+      font-size: 1.2em;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h2>Search by Description</h2>
+  <input type="text" id="search" placeholder="Enter Description...">
+  <div id="result"></div>
+
+  <script>
+    fetch("https://raw.githubusercontent.com/sudipxkarmakar/titan/main/BCG.json?ts=" + new Date().getTime())
+      .then(response => response.json())
+      .then(data => {
+        const searchBox = document.getElementById("search");
+        const resultBox = document.getElementById("result");
+
+        searchBox.addEventListener("input", () => {
+          const query = searchBox.value.trim().toLowerCase();
+          const match = data.find(item => item.Description.toString().toLowerCase() === query);
+          resultBox.textContent = match ? `Material: ${match.Material}` : "Not found";
+        });
+      })
+      .catch(error => {
+        console.error("Error fetching JSON:", error);
+        document.getElementById("result").textContent = "Error loading data.";
+      });
+  </script>
+</body>
+</html>
