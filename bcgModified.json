@@ -1,0 +1,1794 @@
+[
+  {
+    "MATERIAL": 2002306,
+    "DESCRIPTION": 907
+  },
+  {
+    "MATERIAL": 2002306,
+    "DESCRIPTION": 908
+  },
+  {
+    "MATERIAL": 675010249,
+    "DESCRIPTION": "BCG"
+  },
+  {
+    "MATERIAL": "180SAB14",
+    "DESCRIPTION": "180SAB"
+  },
+  {
+    "MATERIAL": "845SCA14",
+    "DESCRIPTION": "845S"
+  },
+  {
+    "MATERIAL": "BG90060WL01",
+    "DESCRIPTION": "90060S"
+  },
+  {
+    "MATERIAL": "BG90060WL01",
+    "DESCRIPTION": "90060W"
+  },
+  {
+    "MATERIAL": "IND2002187",
+    "DESCRIPTION": "1678S"
+  },
+  {
+    "MATERIAL": "IND2002187",
+    "DESCRIPTION": "3054N"
+  },
+  {
+    "MATERIAL": "IND2002187",
+    "DESCRIPTION": "3054S"
+  },
+  {
+    "MATERIAL": "IND2002187",
+    "DESCRIPTION": "3065S"
+  },
+  {
+    "MATERIAL": "IND2002187",
+    "DESCRIPTION": "3069K"
+  },
+  {
+    "MATERIAL": "IND2002187",
+    "DESCRIPTION": 3072
+  },
+  {
+    "MATERIAL": "ND20021100",
+    "DESCRIPTION": "2522S"
+  },
+  {
+    "MATERIAL": "ND20021100",
+    "DESCRIPTION": "2522Y"
+  },
+  {
+    "MATERIAL": "ND20021100",
+    "DESCRIPTION": "5551G"
+  },
+  {
+    "MATERIAL": "ND20021100",
+    "DESCRIPTION": "5567G"
+  },
+  {
+    "MATERIAL": "ND20021100",
+    "DESCRIPTION": "5551D"
+  },
+  {
+    "MATERIAL": "ND20021102",
+    "DESCRIPTION": 1640
+  },
+  {
+    "MATERIAL": "ND20021102",
+    "DESCRIPTION": 1650
+  },
+  {
+    "MATERIAL": "ND20021102",
+    "DESCRIPTION": 1715
+  },
+  {
+    "MATERIAL": "ND20021102",
+    "DESCRIPTION": 1737
+  },
+  {
+    "MATERIAL": "ND20021102",
+    "DESCRIPTION": 3144
+  },
+  {
+    "MATERIAL": "ND20021102",
+    "DESCRIPTION": 7110
+  },
+  {
+    "MATERIAL": "ND20021102",
+    "DESCRIPTION": 7111
+  },
+  {
+    "MATERIAL": "ND20021107",
+    "DESCRIPTION": "3111K"
+  },
+  {
+    "MATERIAL": "ND20021107",
+    "DESCRIPTION": "3228S"
+  },
+  {
+    "MATERIAL": "ND20021107",
+    "DESCRIPTION": "90141YM01"
+  },
+  {
+    "MATERIAL": "ND2002111",
+    "DESCRIPTION": 103
+  },
+  {
+    "MATERIAL": "ND2002111",
+    "DESCRIPTION": "103A"
+  },
+  {
+    "MATERIAL": "ND2002111",
+    "DESCRIPTION": 104
+  },
+  {
+    "MATERIAL": "ND2002111",
+    "DESCRIPTION": 109
+  },
+  {
+    "MATERIAL": "ND2002111",
+    "DESCRIPTION": 113
+  },
+  {
+    "MATERIAL": "ND2002111",
+    "DESCRIPTION": 222
+  },
+  {
+    "MATERIAL": "ND20021111",
+    "DESCRIPTION": "6072S"
+  },
+  {
+    "MATERIAL": "ND20021111",
+    "DESCRIPTION": "6145Q"
+  },
+  {
+    "MATERIAL": "ND20021111",
+    "DESCRIPTION": "87026P"
+  },
+  {
+    "MATERIAL": "ND20021116",
+    "DESCRIPTION": "1738S"
+  },
+  {
+    "MATERIAL": "ND20021116",
+    "DESCRIPTION": "1776S"
+  },
+  {
+    "MATERIAL": "ND20021116",
+    "DESCRIPTION": "1776Y"
+  },
+  {
+    "MATERIAL": "ND20021116",
+    "DESCRIPTION": "1777S"
+  },
+  {
+    "MATERIAL": "ND20021116",
+    "DESCRIPTION": "1777Y"
+  },
+  {
+    "MATERIAL": "ND20021116",
+    "DESCRIPTION": "1806S"
+  },
+  {
+    "MATERIAL": "ND20021119",
+    "DESCRIPTION": 2578
+  },
+  {
+    "MATERIAL": "ND20021119",
+    "DESCRIPTION": 2603
+  },
+  {
+    "MATERIAL": "ND20021119",
+    "DESCRIPTION": 2608
+  },
+  {
+    "MATERIAL": "ND20021119",
+    "DESCRIPTION": 2643
+  },
+  {
+    "MATERIAL": "ND20021119",
+    "DESCRIPTION": 6183
+  },
+  {
+    "MATERIAL": "ND20021119",
+    "DESCRIPTION": 9162
+  },
+  {
+    "MATERIAL": "ND2002112",
+    "DESCRIPTION": 111
+  },
+  {
+    "MATERIAL": "ND2002112",
+    "DESCRIPTION": "111C"
+  },
+  {
+    "MATERIAL": "ND2002112",
+    "DESCRIPTION": "111D"
+  },
+  {
+    "MATERIAL": "ND2002112",
+    "DESCRIPTION": 228
+  },
+  {
+    "MATERIAL": "ND2002112",
+    "DESCRIPTION": 308
+  },
+  {
+    "MATERIAL": "ND2002116",
+    "DESCRIPTION": 236
+  },
+  {
+    "MATERIAL": "ND2002117",
+    "DESCRIPTION": "892Y"
+  },
+  {
+    "MATERIAL": "ND2002117",
+    "DESCRIPTION": "893Y"
+  },
+  {
+    "MATERIAL": "ND2002118",
+    "DESCRIPTION": "656S"
+  },
+  {
+    "MATERIAL": "ND2002122",
+    "DESCRIPTION": "1006S"
+  },
+  {
+    "MATERIAL": "ND2002122",
+    "DESCRIPTION": "183Y"
+  },
+  {
+    "MATERIAL": "ND2002122",
+    "DESCRIPTION": "184Y"
+  },
+  {
+    "MATERIAL": "ND2002122",
+    "DESCRIPTION": "2274G"
+  },
+  {
+    "MATERIAL": "ND2002122",
+    "DESCRIPTION": "6040S"
+  },
+  {
+    "MATERIAL": "ND2002162",
+    "DESCRIPTION": "452S"
+  },
+  {
+    "MATERIAL": "ND2002163",
+    "DESCRIPTION": "2161S"
+  },
+  {
+    "MATERIAL": "ND2002163",
+    "DESCRIPTION": "2404S"
+  },
+  {
+    "MATERIAL": "ND2002163",
+    "DESCRIPTION": "2527Q"
+  },
+  {
+    "MATERIAL": "ND2002176",
+    "DESCRIPTION": "1915S"
+  },
+  {
+    "MATERIAL": "ND2002176",
+    "DESCRIPTION": "191Y"
+  },
+  {
+    "MATERIAL": "ND2002176",
+    "DESCRIPTION": "2039S"
+  },
+  {
+    "MATERIAL": "ND2002178",
+    "DESCRIPTION": "2298S"
+  },
+  {
+    "MATERIAL": "ND2002178",
+    "DESCRIPTION": "2349B"
+  },
+  {
+    "MATERIAL": "ND2002181",
+    "DESCRIPTION": "1380Y"
+  },
+  {
+    "MATERIAL": "ND2002187",
+    "DESCRIPTION": "1678S"
+  },
+  {
+    "MATERIAL": "ND2002187",
+    "DESCRIPTION": "3054N"
+  },
+  {
+    "MATERIAL": "ND2002187",
+    "DESCRIPTION": "3054S"
+  },
+  {
+    "MATERIAL": "ND2002187",
+    "DESCRIPTION": "3065S"
+  },
+  {
+    "MATERIAL": "ND2002187",
+    "DESCRIPTION": "3069K"
+  },
+  {
+    "MATERIAL": "ND2002195",
+    "DESCRIPTION": 1677
+  },
+  {
+    "MATERIAL": "ND2002195",
+    "DESCRIPTION": 3070
+  },
+  {
+    "MATERIAL": "ND2002195",
+    "DESCRIPTION": 9462
+  },
+  {
+    "MATERIAL": "ND2002195",
+    "DESCRIPTION": "B263"
+  },
+  {
+    "MATERIAL": "ND20021S/01",
+    "DESCRIPTION": "1043S"
+  },
+  {
+    "MATERIAL": "ND20021S/01",
+    "DESCRIPTION": 10445
+  },
+  {
+    "MATERIAL": "ND20021S/02",
+    "DESCRIPTION": "1044S"
+  },
+  {
+    "MATERIAL": "ND20021S/02",
+    "DESCRIPTION": "1044Y"
+  },
+  {
+    "MATERIAL": "ND20021S/02",
+    "DESCRIPTION": "1044N"
+  },
+  {
+    "MATERIAL": "ND20021S/06",
+    "DESCRIPTION": 1517
+  },
+  {
+    "MATERIAL": "ND20021S/06",
+    "DESCRIPTION": 1595
+  },
+  {
+    "MATERIAL": "ND20021S/06",
+    "DESCRIPTION": 1684
+  },
+  {
+    "MATERIAL": "ND20021S/07",
+    "DESCRIPTION": 1515
+  },
+  {
+    "MATERIAL": "ND20021S/07",
+    "DESCRIPTION": 1575
+  },
+  {
+    "MATERIAL": "ND20021S/07",
+    "DESCRIPTION": 5047
+  },
+  {
+    "MATERIAL": "ND20021S/09",
+    "DESCRIPTION": 1514
+  },
+  {
+    "MATERIAL": "ND20021S/09",
+    "DESCRIPTION": 1518
+  },
+  {
+    "MATERIAL": "ND20021S/09",
+    "DESCRIPTION": 1577
+  },
+  {
+    "MATERIAL": "ND20021S/09",
+    "DESCRIPTION": 1685
+  },
+  {
+    "MATERIAL": "ND20021S/09",
+    "DESCRIPTION": 40001
+  },
+  {
+    "MATERIAL": "ND20021S/09",
+    "DESCRIPTION": 40003
+  },
+  {
+    "MATERIAL": "ND20021S/09",
+    "DESCRIPTION": 5058
+  },
+  {
+    "MATERIAL": "ND20021S/09",
+    "DESCRIPTION": 5067
+  },
+  {
+    "MATERIAL": "ND2002551",
+    "DESCRIPTION": 386
+  },
+  {
+    "MATERIAL": "ND2002551",
+    "DESCRIPTION": 556
+  },
+  {
+    "MATERIAL": "ND2002551",
+    "DESCRIPTION": 557
+  },
+  {
+    "MATERIAL": "ND2002551",
+    "DESCRIPTION": 558
+  },
+  {
+    "MATERIAL": "ND2002551",
+    "DESCRIPTION": 825
+  },
+  {
+    "MATERIAL": "ND2002551",
+    "DESCRIPTION": 844
+  },
+  {
+    "MATERIAL": "ND2002551",
+    "DESCRIPTION": 846
+  },
+  {
+    "MATERIAL": "ND2002551",
+    "DESCRIPTION": 848
+  },
+  {
+    "MATERIAL": "ND2002561",
+    "DESCRIPTION": 182
+  },
+  {
+    "MATERIAL": "ND2002561",
+    "DESCRIPTION": 316
+  },
+  {
+    "MATERIAL": "ND2002561",
+    "DESCRIPTION": 407
+  },
+  {
+    "MATERIAL": "ND2002561",
+    "DESCRIPTION": 331
+  },
+  {
+    "MATERIAL": "ND2002561",
+    "DESCRIPTION": 454
+  },
+  {
+    "MATERIAL": "ND845SCA14",
+    "DESCRIPTION": "845B"
+  },
+  {
+    "MATERIAL": "ND845SCA14",
+    "DESCRIPTION": "2028D"
+  },
+  {
+    "MATERIAL": "ND845SCA14",
+    "DESCRIPTION": "5506D"
+  },
+  {
+    "MATERIAL": "NE2002101",
+    "DESCRIPTION": "192S"
+  },
+  {
+    "MATERIAL": "NE2002102",
+    "DESCRIPTION": "1073S"
+  },
+  {
+    "MATERIAL": "NE2002102",
+    "DESCRIPTION": "1229S"
+  },
+  {
+    "MATERIAL": "NE2002103",
+    "DESCRIPTION": "1402B"
+  },
+  {
+    "MATERIAL": "NE2002104",
+    "DESCRIPTION": 191
+  },
+  {
+    "MATERIAL": "NE2002104",
+    "DESCRIPTION": 193
+  },
+  {
+    "MATERIAL": "NE2002104",
+    "DESCRIPTION": "193C"
+  },
+  {
+    "MATERIAL": "NE2002104",
+    "DESCRIPTION": "225A"
+  },
+  {
+    "MATERIAL": "NE2002105",
+    "DESCRIPTION": 117
+  },
+  {
+    "MATERIAL": "NE2002105",
+    "DESCRIPTION": 142
+  },
+  {
+    "MATERIAL": "NE2002105",
+    "DESCRIPTION": 192
+  },
+  {
+    "MATERIAL": "NE2002105",
+    "DESCRIPTION": 217
+  },
+  {
+    "MATERIAL": "NE2002105",
+    "DESCRIPTION": 218
+  },
+  {
+    "MATERIAL": "NE2002105",
+    "DESCRIPTION": 274
+  },
+  {
+    "MATERIAL": "NE2002106",
+    "DESCRIPTION": "2095S"
+  },
+  {
+    "MATERIAL": "NE2002106",
+    "DESCRIPTION": "2404S"
+  },
+  {
+    "MATERIAL": "NE2002106",
+    "DESCRIPTION": "2513N"
+  },
+  {
+    "MATERIAL": "NE2002108",
+    "DESCRIPTION": "1391S"
+  },
+  {
+    "MATERIAL": "NE2002109",
+    "DESCRIPTION": 103
+  },
+  {
+    "MATERIAL": "NE2002109",
+    "DESCRIPTION": 122
+  },
+  {
+    "MATERIAL": "NE2002109",
+    "DESCRIPTION": 169
+  },
+  {
+    "MATERIAL": "NE2002109",
+    "DESCRIPTION": 177
+  },
+  {
+    "MATERIAL": "NE2002109",
+    "DESCRIPTION": 262
+  },
+  {
+    "MATERIAL": "NE2002109",
+    "DESCRIPTION": 281
+  },
+  {
+    "MATERIAL": "NE2002110",
+    "DESCRIPTION": 6028
+  },
+  {
+    "MATERIAL": "NE2002110",
+    "DESCRIPTION": 6032
+  },
+  {
+    "MATERIAL": "NE2002110",
+    "DESCRIPTION": 8047
+  },
+  {
+    "MATERIAL": "NE2002110",
+    "DESCRIPTION": 8148
+  },
+  {
+    "MATERIAL": "NE2002110",
+    "DESCRIPTION": 87001
+  },
+  {
+    "MATERIAL": "NE2002110",
+    "DESCRIPTION": 87005
+  },
+  {
+    "MATERIAL": "NE2002110",
+    "DESCRIPTION": 95036
+  },
+  {
+    "MATERIAL": "NE20021103",
+    "DESCRIPTION": 1634
+  },
+  {
+    "MATERIAL": "NE20021103",
+    "DESCRIPTION": 1701
+  },
+  {
+    "MATERIAL": "NE20021103",
+    "DESCRIPTION": 1707
+  },
+  {
+    "MATERIAL": "NE20021103",
+    "DESCRIPTION": "1754-35.50 X 0.70"
+  },
+  {
+    "MATERIAL": "NE20021105",
+    "DESCRIPTION": 1445
+  },
+  {
+    "MATERIAL": "NE20021105",
+    "DESCRIPTION": 1648
+  },
+  {
+    "MATERIAL": "NE20021105",
+    "DESCRIPTION": 1651
+  },
+  {
+    "MATERIAL": "NE20021105",
+    "DESCRIPTION": 2554
+  },
+  {
+    "MATERIAL": "NE20021105",
+    "DESCRIPTION": 6112
+  },
+  {
+    "MATERIAL": "NE20021105",
+    "DESCRIPTION": 6152
+  },
+  {
+    "MATERIAL": "NE20021105",
+    "DESCRIPTION": 6156
+  },
+  {
+    "MATERIAL": "NE20021105",
+    "DESCRIPTION": 6158
+  },
+  {
+    "MATERIAL": "NE20021109",
+    "DESCRIPTION": 2490
+  },
+  {
+    "MATERIAL": "NE20021109",
+    "DESCRIPTION": 2540
+  },
+  {
+    "MATERIAL": "NE20021109",
+    "DESCRIPTION": 2574
+  },
+  {
+    "MATERIAL": "NE20021109",
+    "DESCRIPTION": 2584
+  },
+  {
+    "MATERIAL": "NE20021109",
+    "DESCRIPTION": 6100
+  },
+  {
+    "MATERIAL": "NE20021109",
+    "DESCRIPTION": 6125
+  },
+  {
+    "MATERIAL": "NE20021109",
+    "DESCRIPTION": 8133
+  },
+  {
+    "MATERIAL": "NE20021109",
+    "DESCRIPTION": 8143
+  },
+  {
+    "MATERIAL": "NE20021120",
+    "DESCRIPTION": "17.50 X 0.50"
+  },
+  {
+    "MATERIAL": "NE2002113",
+    "DESCRIPTION": 194
+  },
+  {
+    "MATERIAL": "NE2002113",
+    "DESCRIPTION": "194C"
+  },
+  {
+    "MATERIAL": "NE2002113",
+    "DESCRIPTION": 203
+  },
+  {
+    "MATERIAL": "NE2002115",
+    "DESCRIPTION": 192
+  },
+  {
+    "MATERIAL": "NE2002115",
+    "DESCRIPTION": "192C"
+  },
+  {
+    "MATERIAL": "NE2002115",
+    "DESCRIPTION": 223
+  },
+  {
+    "MATERIAL": "NE2002115",
+    "DESCRIPTION": "225D"
+  },
+  {
+    "MATERIAL": "NE2002115",
+    "DESCRIPTION": 326
+  },
+  {
+    "MATERIAL": "NE2002131",
+    "DESCRIPTION": 131
+  },
+  {
+    "MATERIAL": "NE2002131",
+    "DESCRIPTION": "131C"
+  },
+  {
+    "MATERIAL": "NE2002131",
+    "DESCRIPTION": 133
+  },
+  {
+    "MATERIAL": "NE2002131",
+    "DESCRIPTION": 134
+  },
+  {
+    "MATERIAL": "NE2002131",
+    "DESCRIPTION": 149
+  },
+  {
+    "MATERIAL": "NE2002132",
+    "DESCRIPTION": "195Y"
+  },
+  {
+    "MATERIAL": "NE2002132",
+    "DESCRIPTION": "197Y"
+  },
+  {
+    "MATERIAL": "NE2002137",
+    "DESCRIPTION": "138C"
+  },
+  {
+    "MATERIAL": "NE2002137",
+    "DESCRIPTION": "138D"
+  },
+  {
+    "MATERIAL": "NE2002137",
+    "DESCRIPTION": 215
+  },
+  {
+    "MATERIAL": "NE2002137",
+    "DESCRIPTION": "237A"
+  },
+  {
+    "MATERIAL": "NE2002137",
+    "DESCRIPTION": 257
+  },
+  {
+    "MATERIAL": "NE2002139",
+    "DESCRIPTION": "1947B"
+  },
+  {
+    "MATERIAL": "NE2002142",
+    "DESCRIPTION": "2040Y"
+  },
+  {
+    "MATERIAL": "NE2002142",
+    "DESCRIPTION": "2042Y"
+  },
+  {
+    "MATERIAL": "NE2002142",
+    "DESCRIPTION": "2175Y"
+  },
+  {
+    "MATERIAL": "NE2002143",
+    "DESCRIPTION": 111
+  },
+  {
+    "MATERIAL": "NE2002143",
+    "DESCRIPTION": 142
+  },
+  {
+    "MATERIAL": "NE2002143",
+    "DESCRIPTION": 1075
+  },
+  {
+    "MATERIAL": "NE2002143",
+    "DESCRIPTION": 2097
+  },
+  {
+    "MATERIAL": "NE2002143",
+    "DESCRIPTION": 2264
+  },
+  {
+    "MATERIAL": "NE2002143",
+    "DESCRIPTION": 2299
+  },
+  {
+    "MATERIAL": "NE2002143",
+    "DESCRIPTION": 2345
+  },
+  {
+    "MATERIAL": "NE2002144",
+    "DESCRIPTION": "107C"
+  },
+  {
+    "MATERIAL": "NE2002144",
+    "DESCRIPTION": "122C"
+  },
+  {
+    "MATERIAL": "NE2002144",
+    "DESCRIPTION": 301
+  },
+  {
+    "MATERIAL": "NE2002144",
+    "DESCRIPTION": "310C"
+  },
+  {
+    "MATERIAL": "NE2002144",
+    "DESCRIPTION": 302
+  },
+  {
+    "MATERIAL": "NE2002144",
+    "DESCRIPTION": 305
+  },
+  {
+    "MATERIAL": "NE2002146",
+    "DESCRIPTION": "141C"
+  },
+  {
+    "MATERIAL": "NE2002146",
+    "DESCRIPTION": "143D"
+  },
+  {
+    "MATERIAL": "NE2002146",
+    "DESCRIPTION": 216
+  },
+  {
+    "MATERIAL": "NE2002146",
+    "DESCRIPTION": 348
+  },
+  {
+    "MATERIAL": "NE2002146",
+    "DESCRIPTION": 367
+  },
+  {
+    "MATERIAL": "NE2002147",
+    "DESCRIPTION": "155B"
+  },
+  {
+    "MATERIAL": "NE2002147",
+    "DESCRIPTION": "187A"
+  },
+  {
+    "MATERIAL": "NE2002147",
+    "DESCRIPTION": 198
+  },
+  {
+    "MATERIAL": "NE2002147",
+    "DESCRIPTION": 199
+  },
+  {
+    "MATERIAL": "NE2002147",
+    "DESCRIPTION": 257
+  },
+  {
+    "MATERIAL": "NE2002148",
+    "DESCRIPTION": "134C"
+  },
+  {
+    "MATERIAL": "NE2002148",
+    "DESCRIPTION": 153
+  },
+  {
+    "MATERIAL": "NE2002148",
+    "DESCRIPTION": "162C"
+  },
+  {
+    "MATERIAL": "NE2002148",
+    "DESCRIPTION": 296
+  },
+  {
+    "MATERIAL": "NE2002148",
+    "DESCRIPTION": 297
+  },
+  {
+    "MATERIAL": "NE2002148",
+    "DESCRIPTION": 298
+  },
+  {
+    "MATERIAL": "NE2002149",
+    "DESCRIPTION": "131A"
+  },
+  {
+    "MATERIAL": "NE2002149",
+    "DESCRIPTION": 247
+  },
+  {
+    "MATERIAL": "NE2002149",
+    "DESCRIPTION": "247A"
+  },
+  {
+    "MATERIAL": "NE2002149",
+    "DESCRIPTION": 253
+  },
+  {
+    "MATERIAL": "NE2002149",
+    "DESCRIPTION": 312
+  },
+  {
+    "MATERIAL": "NE2002150",
+    "DESCRIPTION": 138
+  },
+  {
+    "MATERIAL": "NE2002150",
+    "DESCRIPTION": 139
+  },
+  {
+    "MATERIAL": "NE2002150",
+    "DESCRIPTION": 140
+  },
+  {
+    "MATERIAL": "NE2002150",
+    "DESCRIPTION": "161C"
+  },
+  {
+    "MATERIAL": "NE2002151",
+    "DESCRIPTION": "139C"
+  },
+  {
+    "MATERIAL": "NE2002151",
+    "DESCRIPTION": "139D"
+  },
+  {
+    "MATERIAL": "NE2002151",
+    "DESCRIPTION": "140C"
+  },
+  {
+    "MATERIAL": "NE2002151",
+    "DESCRIPTION": "140D"
+  },
+  {
+    "MATERIAL": "NE2002151",
+    "DESCRIPTION": "278C"
+  },
+  {
+    "MATERIAL": "NE2002152",
+    "DESCRIPTION": "177C"
+  },
+  {
+    "MATERIAL": "NE2002152",
+    "DESCRIPTION": 301
+  },
+  {
+    "MATERIAL": "NE2002152",
+    "DESCRIPTION": "301C"
+  },
+  {
+    "MATERIAL": "NE2002152",
+    "DESCRIPTION": 302
+  },
+  {
+    "MATERIAL": "NE2002152",
+    "DESCRIPTION": 304
+  },
+  {
+    "MATERIAL": "NE2002153",
+    "DESCRIPTION": "214A"
+  },
+  {
+    "MATERIAL": "NE2002153",
+    "DESCRIPTION": "222A"
+  },
+  {
+    "MATERIAL": "NE2002153",
+    "DESCRIPTION": 293
+  },
+  {
+    "MATERIAL": "NE2002153",
+    "DESCRIPTION": 309
+  },
+  {
+    "MATERIAL": "NE2002153",
+    "DESCRIPTION": 355
+  },
+  {
+    "MATERIAL": "NE2002154",
+    "DESCRIPTION": "136C"
+  },
+  {
+    "MATERIAL": "NE2002154",
+    "DESCRIPTION": 231
+  },
+  {
+    "MATERIAL": "NE2002154",
+    "DESCRIPTION": 289
+  },
+  {
+    "MATERIAL": "NE2002154",
+    "DESCRIPTION": 290
+  },
+  {
+    "MATERIAL": "NE2002156",
+    "DESCRIPTION": 1043
+  },
+  {
+    "MATERIAL": "NE2002156",
+    "DESCRIPTION": 1070
+  },
+  {
+    "MATERIAL": "NE2002156",
+    "DESCRIPTION": 1170
+  },
+  {
+    "MATERIAL": "NE2002156",
+    "DESCRIPTION": 1257
+  },
+  {
+    "MATERIAL": "NE2002156",
+    "DESCRIPTION": 1481
+  },
+  {
+    "MATERIAL": "NE2002156",
+    "DESCRIPTION": 1526
+  },
+  {
+    "MATERIAL": "NE2002156",
+    "DESCRIPTION": 5001
+  },
+  {
+    "MATERIAL": "NE2002165",
+    "DESCRIPTION": "1936S"
+  },
+  {
+    "MATERIAL": "NE2002169",
+    "DESCRIPTION": "2123Y"
+  },
+  {
+    "MATERIAL": "NE2002173",
+    "DESCRIPTION": 1249
+  },
+  {
+    "MATERIAL": "NE2002173",
+    "DESCRIPTION": 1449
+  },
+  {
+    "MATERIAL": "NE2002173",
+    "DESCRIPTION": 1479
+  },
+  {
+    "MATERIAL": "NE2002173",
+    "DESCRIPTION": 5006
+  },
+  {
+    "MATERIAL": "NE2002173",
+    "DESCRIPTION": 5016
+  },
+  {
+    "MATERIAL": "NE2002173",
+    "DESCRIPTION": 5024
+  },
+  {
+    "MATERIAL": "NE2002173",
+    "DESCRIPTION": 5025
+  },
+  {
+    "MATERIAL": "NE2002173",
+    "DESCRIPTION": 5034
+  },
+  {
+    "MATERIAL": "NE2002173",
+    "DESCRIPTION": 1401
+  },
+  {
+    "MATERIAL": "NE2002174",
+    "DESCRIPTION": 1044
+  },
+  {
+    "MATERIAL": "NE2002174",
+    "DESCRIPTION": 1246
+  },
+  {
+    "MATERIAL": "NE2002174",
+    "DESCRIPTION": 1247
+  },
+  {
+    "MATERIAL": "NE2002174",
+    "DESCRIPTION": 5007
+  },
+  {
+    "MATERIAL": "NE2002174",
+    "DESCRIPTION": 5013
+  },
+  {
+    "MATERIAL": "NE2002174",
+    "DESCRIPTION": 5015
+  },
+  {
+    "MATERIAL": "NE2002174",
+    "DESCRIPTION": 5017
+  },
+  {
+    "MATERIAL": "NE2002174",
+    "DESCRIPTION": 5022
+  },
+  {
+    "MATERIAL": "NE2002174",
+    "DESCRIPTION": 5027
+  },
+  {
+    "MATERIAL": "NE2002175",
+    "DESCRIPTION": 1492
+  },
+  {
+    "MATERIAL": "NE2002175",
+    "DESCRIPTION": 1499
+  },
+  {
+    "MATERIAL": "NE2002175",
+    "DESCRIPTION": 1508
+  },
+  {
+    "MATERIAL": "NE2002175",
+    "DESCRIPTION": 1584
+  },
+  {
+    "MATERIAL": "NE2002175",
+    "DESCRIPTION": 1585
+  },
+  {
+    "MATERIAL": "NE2002175",
+    "DESCRIPTION": 1587
+  },
+  {
+    "MATERIAL": "NE2002175",
+    "DESCRIPTION": 1627
+  },
+  {
+    "MATERIAL": "NE2002175",
+    "DESCRIPTION": 1632
+  },
+  {
+    "MATERIAL": "NE2002175",
+    "DESCRIPTION": 1656
+  },
+  {
+    "MATERIAL": "NE2002180",
+    "DESCRIPTION": "1353S"
+  },
+  {
+    "MATERIAL": "NE2002182",
+    "DESCRIPTION": "736P"
+  },
+  {
+    "MATERIAL": "NE2002183",
+    "DESCRIPTION": "1420S"
+  },
+  {
+    "MATERIAL": "NE2002183",
+    "DESCRIPTION": "1491Y"
+  },
+  {
+    "MATERIAL": "NE2002183",
+    "DESCRIPTION": "1506S"
+  },
+  {
+    "MATERIAL": "NE2002184",
+    "DESCRIPTION": "2414S"
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1477
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1490
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1495
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1582
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1587
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1663
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1665
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1667
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1477
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1490
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1495
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1582
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1587
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1663
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1665
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 1667
+  },
+  {
+    "MATERIAL": "NE2002185",
+    "DESCRIPTION": 9323
+  },
+  {
+    "MATERIAL": "NE2002186",
+    "DESCRIPTION": "3078S"
+  },
+  {
+    "MATERIAL": "NE2002186",
+    "DESCRIPTION": "3094N"
+  },
+  {
+    "MATERIAL": "NE2002186",
+    "DESCRIPTION": 3096
+  },
+  {
+    "MATERIAL": "NE2002188",
+    "DESCRIPTION": 1546
+  },
+  {
+    "MATERIAL": "NE2002188",
+    "DESCRIPTION": 1548
+  },
+  {
+    "MATERIAL": "NE2002188",
+    "DESCRIPTION": 1586
+  },
+  {
+    "MATERIAL": "NE2002188",
+    "DESCRIPTION": 1594
+  },
+  {
+    "MATERIAL": "NE2002188",
+    "DESCRIPTION": 1608
+  },
+  {
+    "MATERIAL": "NE2002188",
+    "DESCRIPTION": 3020
+  },
+  {
+    "MATERIAL": "NE2002188",
+    "DESCRIPTION": 3035
+  },
+  {
+    "MATERIAL": "NE2002188",
+    "DESCRIPTION": 3027
+  },
+  {
+    "MATERIAL": "NE2002188",
+    "DESCRIPTION": 3033
+  },
+  {
+    "MATERIAL": "NE2002188",
+    "DESCRIPTION": 3036
+  },
+  {
+    "MATERIAL": "NE2002189",
+    "DESCRIPTION": 1600
+  },
+  {
+    "MATERIAL": "NE2002189",
+    "DESCRIPTION": 1627
+  },
+  {
+    "MATERIAL": "NE2002189",
+    "DESCRIPTION": 1631
+  },
+  {
+    "MATERIAL": "NE2002189",
+    "DESCRIPTION": 1643
+  },
+  {
+    "MATERIAL": "NE2002189",
+    "DESCRIPTION": 1689
+  },
+  {
+    "MATERIAL": "NE2002189",
+    "DESCRIPTION": 1697
+  },
+  {
+    "MATERIAL": "NE2002189",
+    "DESCRIPTION": 1699
+  },
+  {
+    "MATERIAL": "NE2002189",
+    "DESCRIPTION": 1708
+  },
+  {
+    "MATERIAL": "NE2002189",
+    "DESCRIPTION": 1719
+  },
+  {
+    "MATERIAL": "NE2002189",
+    "DESCRIPTION": 1756
+  },
+  {
+    "MATERIAL": "NE2002192",
+    "DESCRIPTION": "7067S"
+  },
+  {
+    "MATERIAL": "NE2002192",
+    "DESCRIPTION": "7086S"
+  },
+  {
+    "MATERIAL": "NE2002198",
+    "DESCRIPTION": 1489
+  },
+  {
+    "MATERIAL": "NE2002198",
+    "DESCRIPTION": 1589
+  },
+  {
+    "MATERIAL": "NE2002198",
+    "DESCRIPTION": 1625
+  },
+  {
+    "MATERIAL": "NE2002198",
+    "DESCRIPTION": 1679
+  },
+  {
+    "MATERIAL": "NE2002198",
+    "DESCRIPTION": 3021
+  },
+  {
+    "MATERIAL": "NE2002198",
+    "DESCRIPTION": 3106
+  },
+  {
+    "MATERIAL": "NE2002198",
+    "DESCRIPTION": 3129
+  },
+  {
+    "MATERIAL": "NE20021S/03",
+    "DESCRIPTION": "679S"
+  },
+  {
+    "MATERIAL": "NE20021S/04",
+    "DESCRIPTION": 1514
+  },
+  {
+    "MATERIAL": "NE20021S/04",
+    "DESCRIPTION": "18N"
+  },
+  {
+    "MATERIAL": "NE20021S/04",
+    "DESCRIPTION": "1596N"
+  },
+  {
+    "MATERIAL": "NE20021S/04",
+    "DESCRIPTION": "1599N"
+  },
+  {
+    "MATERIAL": "NE20021S/05",
+    "DESCRIPTION": 1515
+  },
+  {
+    "MATERIAL": "NE20021S/05",
+    "DESCRIPTION": 1598
+  },
+  {
+    "MATERIAL": "NE20021S/05",
+    "DESCRIPTION": 5049
+  },
+  {
+    "MATERIAL": "NE20021S/05",
+    "DESCRIPTION": 5052
+  },
+  {
+    "MATERIAL": "NE20021S/05",
+    "DESCRIPTION": 5054
+  },
+  {
+    "MATERIAL": "NE20021S/05",
+    "DESCRIPTION": 5063
+  },
+  {
+    "MATERIAL": "NE2002555",
+    "DESCRIPTION": "113Y"
+  },
+  {
+    "MATERIAL": "NE2002555",
+    "DESCRIPTION": 804
+  },
+  {
+    "MATERIAL": "NE2002555",
+    "DESCRIPTION": 805
+  },
+  {
+    "MATERIAL": "NE2002555",
+    "DESCRIPTION": 567
+  },
+  {
+    "MATERIAL": "NE2002555",
+    "DESCRIPTION": 568
+  },
+  {
+    "MATERIAL": "NE2002555",
+    "DESCRIPTION": 5612
+  },
+  {
+    "MATERIAL": "NE2002555",
+    "DESCRIPTION": 5613
+  },
+  {
+    "MATERIAL": "NE2002555",
+    "DESCRIPTION": 5649
+  },
+  {
+    "MATERIAL": "NE2002557",
+    "DESCRIPTION": "170A"
+  },
+  {
+    "MATERIAL": "NE2002557",
+    "DESCRIPTION": "209Y"
+  },
+  {
+    "MATERIAL": "NE2002557",
+    "DESCRIPTION": 390
+  },
+  {
+    "MATERIAL": "NE2002557",
+    "DESCRIPTION": 504
+  },
+  {
+    "MATERIAL": "NE2002557",
+    "DESCRIPTION": 505
+  },
+  {
+    "MATERIAL": "NE2002557",
+    "DESCRIPTION": 564
+  },
+  {
+    "MATERIAL": "NE2002557",
+    "DESCRIPTION": 569
+  },
+  {
+    "MATERIAL": "NE2002558",
+    "DESCRIPTION": "180S"
+  },
+  {
+    "MATERIAL": "NE2002558",
+    "DESCRIPTION": "180Y"
+  },
+  {
+    "MATERIAL": "NE2002559",
+    "DESCRIPTION": 241
+  },
+  {
+    "MATERIAL": "NE2002559",
+    "DESCRIPTION": 242
+  },
+  {
+    "MATERIAL": "NE2002559",
+    "DESCRIPTION": 511
+  },
+  {
+    "MATERIAL": "NE2002559",
+    "DESCRIPTION": 543
+  },
+  {
+    "MATERIAL": "NE2002559",
+    "DESCRIPTION": 535
+  },
+  {
+    "MATERIAL": "NE2002559",
+    "DESCRIPTION": 520
+  },
+  {
+    "MATERIAL": "NE2002559",
+    "DESCRIPTION": 521
+  },
+  {
+    "MATERIAL": "NE2002559",
+    "DESCRIPTION": 527
+  },
+  {
+    "MATERIAL": "NE2002564",
+    "DESCRIPTION": 880
+  },
+  {
+    "MATERIAL": "NE2002564",
+    "DESCRIPTION": "991D"
+  },
+  {
+    "MATERIAL": "NE2002564",
+    "DESCRIPTION": "993D"
+  },
+  {
+    "MATERIAL": "NE2002564",
+    "DESCRIPTION": "2921D"
+  },
+  {
+    "MATERIAL": "NF20021100",
+    "DESCRIPTION": "2522S"
+  },
+  {
+    "MATERIAL": "NF20021100",
+    "DESCRIPTION": "5551G"
+  },
+  {
+    "MATERIAL": "NF20021100",
+    "DESCRIPTION": "5567G"
+  },
+  {
+    "MATERIAL": "NF20021100",
+    "DESCRIPTION": "5551D"
+  },
+  {
+    "MATERIAL": "NF20021102",
+    "DESCRIPTION": 1640
+  },
+  {
+    "MATERIAL": "NF20021102",
+    "DESCRIPTION": 1650
+  },
+  {
+    "MATERIAL": "NF20021102",
+    "DESCRIPTION": 1715
+  },
+  {
+    "MATERIAL": "NF20021102",
+    "DESCRIPTION": 1737
+  },
+  {
+    "MATERIAL": "NF20021102",
+    "DESCRIPTION": 3144
+  },
+  {
+    "MATERIAL": "NF20021102",
+    "DESCRIPTION": 7110
+  },
+  {
+    "MATERIAL": "NF20021102",
+    "DESCRIPTION": 111
+  },
+  {
+    "MATERIAL": "NF20021107",
+    "DESCRIPTION": "3111K"
+  },
+  {
+    "MATERIAL": "NF20021107",
+    "DESCRIPTION": "3228S"
+  },
+  {
+    "MATERIAL": "NF20021107",
+    "DESCRIPTION": "90141YM01"
+  },
+  {
+    "MATERIAL": "NF20021110",
+    "DESCRIPTION": "2037Y"
+  },
+  {
+    "MATERIAL": "NF20021110",
+    "DESCRIPTION": "2040Y"
+  },
+  {
+    "MATERIAL": "NF20021110",
+    "DESCRIPTION": "2050B"
+  },
+  {
+    "MATERIAL": "NF20021110",
+    "DESCRIPTION": "2370SW"
+  },
+  {
+    "MATERIAL": "NF20021111",
+    "DESCRIPTION": "6072S"
+  },
+  {
+    "MATERIAL": "NF20021111",
+    "DESCRIPTION": "6145Q"
+  },
+  {
+    "MATERIAL": "NF20021111",
+    "DESCRIPTION": "87026P"
+  },
+  {
+    "MATERIAL": "NF20021119",
+    "DESCRIPTION": 2578
+  },
+  {
+    "MATERIAL": "NF20021119",
+    "DESCRIPTION": 2603
+  },
+  {
+    "MATERIAL": "NF20021119",
+    "DESCRIPTION": 2608
+  },
+  {
+    "MATERIAL": "NF20021119",
+    "DESCRIPTION": 2643
+  },
+  {
+    "MATERIAL": "NF20021119",
+    "DESCRIPTION": 6183
+  },
+  {
+    "MATERIAL": "NF20021119",
+    "DESCRIPTION": 9162
+  },
+  {
+    "MATERIAL": "NF2002122",
+    "DESCRIPTION": "1006S"
+  },
+  {
+    "MATERIAL": "NF2002122",
+    "DESCRIPTION": "183Y"
+  },
+  {
+    "MATERIAL": "NF2002122",
+    "DESCRIPTION": "184Y"
+  },
+  {
+    "MATERIAL": "NF2002122",
+    "DESCRIPTION": "2274G"
+  },
+  {
+    "MATERIAL": "NF2002122",
+    "DESCRIPTION": "6040S"
+  },
+  {
+    "MATERIAL": "NF2002160",
+    "DESCRIPTION": 6046
+  },
+  {
+    "MATERIAL": "NF2002160",
+    "DESCRIPTION": 6078
+  },
+  {
+    "MATERIAL": "NF2002160",
+    "DESCRIPTION": 7053
+  },
+  {
+    "MATERIAL": "NF2002160",
+    "DESCRIPTION": "1133 - 27.50 X 0.60"
+  },
+  {
+    "MATERIAL": "NF2002176",
+    "DESCRIPTION": "1915S"
+  },
+  {
+    "MATERIAL": "NF2002176",
+    "DESCRIPTION": "191Y"
+  },
+  {
+    "MATERIAL": "NF2002176",
+    "DESCRIPTION": 20395
+  },
+  {
+    "MATERIAL": "NF2002176",
+    "DESCRIPTION": "1915S"
+  },
+  {
+    "MATERIAL": "NF2002176",
+    "DESCRIPTION": "191Y"
+  },
+  {
+    "MATERIAL": "NF2002176",
+    "DESCRIPTION": "2039S"
+  },
+  {
+    "MATERIAL": "NF2002178",
+    "DESCRIPTION": "2298S"
+  },
+  {
+    "MATERIAL": "NF2002178",
+    "DESCRIPTION": "2349B"
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  },
+  {
+    "MATERIAL": "",
+    "DESCRIPTION": ""
+  }
+]
