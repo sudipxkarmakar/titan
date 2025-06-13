@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Report Data Issue - Titan</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: url('nebula.avif') no-repeat center center fixed;
+      background-size: cover;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .report-box {
+      background: rgba(255, 255, 255, 0.85);
+      padding: 30px;
+      border-radius: 15px;
+      width: 100%;
+      max-width: 400px;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+    }
+
+    .report-box h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #333;
+    }
+
+    label {
+      font-weight: bold;
+      margin-top: 15px;
+      display: block;
+    }
+
+    select, input, textarea {
+      width: 100%;
+      padding: 10px;
+      margin-top: 8px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-size: 15px;
+    }
+
+    button {
+      width: 100%;
+      padding: 12px;
+      margin-top: 20px;
+      background-color: #007acc;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #005ea3;
+    }
+
+    .message {
+      margin-top: 10px;
+      text-align: center;
+      color: green;
+    }
+  </style>
+</head>
+<body>
+  <div class="report-box">
+    <h2>Report Data Issue</h2>
+    <form id="issueForm">
+      <label for="issueType">Issue Type</label>
+      <select id="issueType" required>
+        <option value="">Select an issue</option>
+        <option value="missing_value">Missing Value</option>
+        <option value="wrong_material">Wrong Material Code</option>
+        <option value="incorrect_description">Incorrect Description</option>
+        <option value="duplicate_entry">Duplicate Entry</option>
+        <option value="others">Others</option>
+      </select>
+
+      <label for="description">Additional Info (optional)</label>
+      <textarea id="description" placeholder="Add specific details..."></textarea>
+
+      <button type="submit">Submit</button>
+      <div class="message" id="confirmationMsg"></div>
+    </form>
+  </div>
+
+  <script>
+    document.getElementById("issueForm").addEventListener("submit", function(e) {
+      e.preventDefault();
+      const type = document.getElementById("issueType").value;
+      const desc = document.getElementById("description").value;
+
+      // Placeholder: You can send this to a server or email
+      console.log("Issue Submitted:", { type, desc });
+
+      document.getElementById("confirmationMsg").textContent = "Thanks! Your issue has been recorded.";
+      this.reset();
+    });
+  </script>
+</body>
+</html>
